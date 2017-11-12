@@ -11,15 +11,9 @@
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- screenshot.png
-- LICENSE
 - CNAME
 - Gemfile
 - Gemfile.lock
-- demo/*
-- alembic-jekyll-theme.gemspec
 
 # 2. Installed Gems
 gems:
@@ -53,7 +47,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Europe/Vienna # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -73,11 +67,11 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+lang: de-AT # Set the site language
+title: "Dustmap Österreich" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "http://dustmap.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
@@ -91,7 +85,6 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
   Created by David Darnes: https://darn.es
