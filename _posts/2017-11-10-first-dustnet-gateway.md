@@ -24,7 +24,7 @@ Die gemessenen Daten werden werden unter einer großzügigen Open Source Lizenz 
 
 
 {% include figure.html image="/assets/images/posts/2017/gateway-01-software.jpg" caption="Matthias ladet noch die neueste dustmap Firmware auf den Sensor und dann..." %}
-{% include figure.html image="/assets/images/posts/2017/gateway-01-test.jpg" caption="... der erste erfolgreiche Testmessung mit dem SDS011! :raised_hands:" %}
+{% include figure.html image="/assets/images/posts/2017/gateway-01-test.jpg" caption="... die erste erfolgreiche Testmessung mit dem SDS011! :raised_hands:" %}
 
 Obwohl es das Projekt bereits seit 2013 gibt, stehen wir gerade wieder am Anfang einer interessanten Phase. Man wird uns jetzt auch immer wieder auf diversen Meetups, Barcamps und ähnlichen Veranstaltungen antreffen. Und natürlich freuen wir uns über Fragen, Unterstützung und Interesse an der dustmap:
 
