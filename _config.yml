@@ -79,12 +79,12 @@ avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # 
 
 # 8. Site navigation
 navigation_header:
-  dustmap?: /uber-dustmap/
-  Blog: /blog/
+  dustmap?: /uber-dustmap
+  Blog: /blog
 
 navigation_footer:
-  Kontakt: /kontakt/
-  Impressum: /impressum/
+  Kontakt: /kontakt
+  Impressum: /impressum
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Facebook: https://twitter.com/DavidDarnes
