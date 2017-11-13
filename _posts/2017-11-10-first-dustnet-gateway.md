@@ -1,7 +1,7 @@
 ---
 title: "dustnet Gateway 01 ist online!"
 category: dustnet
-feature_image: "https://unsplash.it/1200/400?image=200"
+feature_image: "/assets/images/header-pexels-photo-459670.jpeg"
 ---
 
 Der heute Tag markiert gleich zwei bedeutende Meilensteine für unser dustmap Projekt. Nach zweimonatigem Testbetrieb haben wir das erste Grazer LoRaWAN Gateway erfolgreich in Betrieb genommen und damit die Stadt Graz auf die Karte des [The Things Network](https://www.thethingsnetwork.org) gebracht.

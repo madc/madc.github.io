@@ -1,11 +1,9 @@
 <header class="header">
-  <div class="container">
-      <a class="logo" href="{{ site.baseurl }}/">
-          dustmap
-      </a>
+    <div class="container">
+        {% if site.logo %}{% include site-logo.html %}{% endif %}
 
-    {% include nav-header.html %}
-  </div>
+        {% include nav-header.html %}
+    </div>
 
-  {% include site-feature.html %}
+    {% include site-feature.html %}
 </header>

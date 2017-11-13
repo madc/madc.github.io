@@ -2,8 +2,8 @@
 title: Was ist dustmap?
 permalink: uber-dustmap
 feature_text: ""
-feature_image: "https://unsplash.it/1300/400?image=971"
-excerpt: "Das Projekt dustmap möchte BürgerInnen eine einfache Möglichkeit geben, Feinstaub zu messen. Ziel des Projekts ist es, ein einfaches, kostengünstiges Messgerät zu entwickeln, mit dem Feinstaub und andere Umweltdaten gemessen werden können."
+feature_image: "/assets/images/header-pexels-photo-459670.jpeg"
+excerpt: "Das Projekt dustmap hat es sich zum Ziel gesetzt, eine einfache und kostengünstige Messstation zu entwickeln, mit der Feinstaub und andere Umweltdaten gemessen werden können."
 ---
 
 Bereits 2013 entstand das Projekt dustmap. Das Projekt hat die Entwicklung eines Low-Budget Gerätes zum Ziel, welches stationär oder mobil Messdaten erfasst und - wenn gewollt - auch auf eine Website überträgt, auf der die aktuellen Feinstaubwerte für alle einsehbar sind. Mit dem dustmap-Sensor soll es also möglich sein, Feinstaub und weitere interessante Umweltdaten zu messen, zu speichern und zu visualisieren.

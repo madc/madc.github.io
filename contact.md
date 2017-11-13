@@ -2,7 +2,7 @@
 title: Kontakt
 permalink: kontakt
 feature_text: ""
-feature_image: "https://unsplash.it/1300/400?image=971"
+feature_image: "/assets/images/header-pexels-photo-459670.jpeg"
 ---
 
 - {% include button.html text="Schick uns eine E-Mail!" icon="email" link="mailto:team@dustmap.org" %}
