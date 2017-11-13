@@ -68,7 +68,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: de-AT # Set the site language
 title: "dustmap" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+#logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "http://dustmap.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
